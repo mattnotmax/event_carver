@@ -8,4 +8,6 @@ Usage: event_carver.py \<filename\>
 
 It will create and output directory with a summary CSV and carved event data.
 
-Ths program is provided as-is and with no warranty. At this stage it has not undergone significant testing. Please use at your own risk.
+Ths program is provided as-is and with no warranty under MIT license. At this stage it has not undergone significant testing against wider datasets. 
+
+**Please use at your own risk.**
