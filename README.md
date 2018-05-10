@@ -1,6 +1,6 @@
 # event_carver
 
-Used to search binary data for x\2Ax\2Ax\00x\00 and then carve out the EVTX information. 
+Used to search binary data for x\2Ax\2Ax\00x\00 and then carve out the EVTX information. For more details see https://bitofhex.com/2018/05/10/memory-forensics-tor-part-two/
 
 Requires: Python 3
 
